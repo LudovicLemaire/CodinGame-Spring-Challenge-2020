@@ -4,7 +4,7 @@
 ![screenshot](https://raw.githubusercontent.com/LudovicLemaire/CodinGame-Spring-Challenge-2020/master/git_images/FAQ.PNG)
 
 ## Score
-I finished 3rd in ~45 at my school, and 775th in ~5000 worldwide
+I finished 3rd in ~45 at my school, and 775th in ~5000 worldwide.
 ![screenshot](https://raw.githubusercontent.com/LudovicLemaire/CodinGame-Spring-Challenge-2020/master/git_images/score.PNG)
 
 
@@ -38,6 +38,7 @@ A spell has a cooldown of 10 turns (that affect both).
 
 ## Overview
 **Main**
+
 I put every pellets in an list at the beginning of a match.
 Then update that list according to my vision every round.
 
@@ -54,6 +55,7 @@ If a Pacman has same position as old turn, then he's considered as blocked, and 
 Always launch Speed if cooldown is at zero, expect if an enemy is too close.
 
 **Combat**
+
 I never attack except if enemy is 1 case of me (or 2 if speed) AND if enemy cooldown is above 1).
 I flee if an enemy can hit me in the next turn (taking into account speed of both). So my Pacmans can technically never be eaten except if I don't see the oponent, or if he blocked me into a "cave".
 
@@ -62,4 +64,5 @@ If an enemy is same form and cooldown of mine and oponent is 0 and close of <2 c
 Flat torus aspect in the X axis is taken into account for everything.
 
 **End**
+
 That CodinGame Challenge was my first, and I pretty much enjoyed it, I may do others in the future !
