@@ -1,11 +1,9 @@
 # CodinGame Spring Challenge 2020
 
-**About**
-
+## About**
 ![screenshot](https://raw.githubusercontent.com/LudovicLemaire/CodinGame-Spring-Challenge-2020/master/git_images/FAQ.PNG)
 
-**Score**
-
+## Score**
 ![screenshot](https://raw.githubusercontent.com/LudovicLemaire/CodinGame-Spring-Challenge-2020/master/git_images/score.PNG)
 
 
