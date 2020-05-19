@@ -4,6 +4,7 @@
 ![screenshot](https://raw.githubusercontent.com/LudovicLemaire/CodinGame-Spring-Challenge-2020/master/git_images/FAQ.PNG)
 
 ## Score
+I finished 3rd in ~45 at my school, and 775th in ~5000 worldwide
 ![screenshot](https://raw.githubusercontent.com/LudovicLemaire/CodinGame-Spring-Challenge-2020/master/git_images/score.PNG)
 
 
@@ -60,7 +61,5 @@ If an enemy is same form and cooldown of mine and oponent is 0 and close of <2 c
 
 Flat torus aspect in the X axis is taken into account for everything.
 
-
-
-That's the main points.
+**End**
 That CodinGame Challenge was my first, and I pretty much enjoyed it, I may do others in the future !
